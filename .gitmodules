@@ -2,3 +2,8 @@
 	path = syncoria/odoosync
 	url = git@github.com:syncoria/odoosync.git
 	branch = 19.0_odoosync_testing
+
+[submodule "syncoria/shopify"]
+	path = syncoria/shopify
+	url = git@github.com:syncoria/shopify.git
+	branch = production
